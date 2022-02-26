@@ -93,3 +93,7 @@ cd_catkin_ws/srs/
 Демонстрирует последовательность команд для выполнения
 git pull HEAD обновление пакета
 
+
+
+http://wiki.ros.org/sound_play?distro=noetic
+http://wiki.ros.org/audio_common/Tutorials/Streaming%20audio
