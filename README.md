@@ -97,3 +97,7 @@ git pull HEAD обновление пакета
 
 http://wiki.ros.org/sound_play?distro=noetic
 http://wiki.ros.org/audio_common/Tutorials/Streaming%20audio
+
+Либо команда  play
+Или aplay
+Если что-то не заработает возможно пакет воспроизведения нужно будет поставить через sudo apt-get install
